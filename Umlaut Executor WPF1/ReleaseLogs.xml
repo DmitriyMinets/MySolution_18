@@ -1,9 +1,0 @@
-﻿<ReleaseLogs>
-  <!--"IsLatest" node must be set to true for the most latest release-->
-  <ReleaseData>
-    <Version></Version>
-    <IsLatest></IsLatest>
-    <ChangesetDetails>
-    </ChangesetDetails>
-  </ReleaseData>
-</ReleaseLogs>
